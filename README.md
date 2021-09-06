@@ -60,6 +60,8 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 &nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg"></code>
+&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
@@ -86,7 +88,7 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pethum-Jeewantha&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pethum-Jeewantha&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pethum-Jeewantha&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 &nbsp;
