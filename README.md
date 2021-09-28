@@ -27,11 +27,12 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 
 ## 🧑‍💻 MY WORKS
 
-| Description      | Repository                                                                                 | Website                                                                    |
-|------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|Google Clone      | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)        | https://pethum-jeewantha.github.io/vanilla-html-css-google-clone           |
-|Twitter Clone UI  | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git)       | https://pethum-jeewantha.github.io/vanilla-html-css-twitter-clone          |
-|POS System UI     | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)                  | https://pethum-jeewantha.github.io/html-css-pos-system                     |
+| Description                    | Repository                                                                                 | Website                                                                    |
+|--------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|ProEdit (Simple Text Editor)    | [repository](https://github.com/Pethum-Jeewantha/Text-Editor.git)                          | (Desktop Application)                                                      |
+|Google Clone                    | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)        | https://pethum-jeewantha.github.io/vanilla-html-css-google-clone           |
+|Twitter Clone UI                | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git)       | https://pethum-jeewantha.github.io/vanilla-html-css-twitter-clone          |
+|POS System UI                   | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)                  | https://pethum-jeewantha.github.io/html-css-pos-system                     |
 
 ## SKILLS & TOOLS
 <p>
