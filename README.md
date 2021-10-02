@@ -33,6 +33,7 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 |Google Clone                    | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)        | https://pethum-jeewantha.github.io/vanilla-html-css-google-clone           |
 |Twitter Clone UI                | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git)       | https://pethum-jeewantha.github.io/vanilla-html-css-twitter-clone          |
 |POS System UI                   | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)                  | https://pethum-jeewantha.github.io/html-css-pos-system                     |
+|Simple Intro                    | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                         | https://pethum-jeewantha.github.io/simple-intro                            |
 
 ## SKILLS & TOOLS
 <p>
