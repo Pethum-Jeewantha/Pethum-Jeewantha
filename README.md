@@ -35,14 +35,17 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 |POS System UI                   | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)                  | https://pethum-jeewantha.github.io/html-css-pos-system                     |
 |Simple Intro                    | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                         | https://pethum-jeewantha.github.io/simple-intro                            |
 |Personal Website                | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)                     | https://pethumjeewantha.com                                                |
+|Simple ORM Framework            | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)                 | (Java Framework)                                                           |
 
 ## SKILLS & TOOLS
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 &nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 &nbsp;
@@ -69,6 +72,8 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 &nbsp;
