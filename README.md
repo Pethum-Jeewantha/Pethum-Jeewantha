@@ -43,6 +43,10 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 &nbsp;
+<code><img width="4%" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png"></code>
+&nbsp;
+<code><img width="4%" src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png"></code>
+&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
@@ -76,6 +80,8 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
 &nbsp;
