@@ -37,6 +37,7 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 |Personal Website                | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)                     | https://pethumjeewantha.com                                                |
 |Simple ORM Framework            | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)                 | (Java Framework)                                                           |
 |Spring Boot POS API             | [repository](https://github.com/Pethum-Jeewantha/spring-boot-pos-api.git)                  | (POS ready-to-go back-end using Spring Boot)                               |
+|Express Amazon Clone API        | [repository](https://github.com/Pethum-Jeewantha/express-amazon-clone-api.git)             | (Amazon Clone ready-to-go back-end using Express)                          |
 
 ## SKILLS & TOOLS
 <p>
