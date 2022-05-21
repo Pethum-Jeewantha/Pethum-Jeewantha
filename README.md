@@ -1,13 +1,13 @@
-<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="300">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Pethum+Jeewantha)](https://git.io/typing-svg)
 
 
 ## I'm a Learner and Developer!
 
-- 🌱 I’m currently learning React, Angular and Node
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+- 🌱 I’m currently learning Go, Terraform.
 - 💬 Ask me about anything related to Application Development
-- 🥅 2021 Goals: Complete Professional Certifications
+- 🥅 2022 Goals: Complete Professional Certifications
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
@@ -27,17 +27,18 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 
 ## 🧑‍💻 MY WORKS
 
-| Topic                          | Repository                                                                                 | Description                                                                |
-|--------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|ProEdit (Simple Text Editor)    | [repository](https://github.com/Pethum-Jeewantha/Text-Editor.git)                          | (Desktop Application)                                                      |
-|Google Clone                    | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)        | https://pethum-jeewantha.github.io/vanilla-html-css-google-clone           |
-|Twitter Clone UI                | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git)       | https://pethum-jeewantha.github.io/vanilla-html-css-twitter-clone          |
-|POS System UI                   | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)                  | https://pethum-jeewantha.github.io/html-css-pos-system                     |
-|Simple Intro                    | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                         | https://pethum-jeewantha.github.io/simple-intro                            |
-|Personal Website                | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)                     | https://pethumjeewantha.com                                                |
-|Simple ORM Framework            | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)                 | (Java Framework)                                                           |
-|Spring Boot POS API             | [repository](https://github.com/Pethum-Jeewantha/spring-boot-pos-api.git)                  | (POS ready-to-go back-end using Spring Boot)                               |
-|Express Amazon Clone API        | [repository](https://github.com/Pethum-Jeewantha/express-amazon-clone-api.git)             | (Amazon Clone ready-to-go back-end using Express)                          |
+| Topic                        | Repository                                                                           | Description                                                       |
+|------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| ProEdit (Simple Text Editor) | [repository](https://github.com/Pethum-Jeewantha/Text-Editor.git)                    | (Desktop Application)                                             |
+| Google Clone                 | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)  | https://pethum-jeewantha.github.io/vanilla-html-css-google-clone  |
+| Twitter Clone UI             | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git) | https://pethum-jeewantha.github.io/vanilla-html-css-twitter-clone |
+| POS System UI                | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)            | https://pethum-jeewantha.github.io/html-css-pos-system            |
+| Simple Intro                 | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                   | https://pethum-jeewantha.github.io/simple-intro                   |
+| Personal Website             | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)               | https://pethumjeewantha.com                                       |
+| Simple ORM Framework         | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)           | (Java Framework)                                                  |
+| Spring Boot POS API          | [repository](https://github.com/Pethum-Jeewantha/spring-boot-pos-api.git)            | (POS ready-to-go back-end using Spring Boot)                      |
+| Express Amazon Clone API     | [repository](https://github.com/Pethum-Jeewantha/express-amazon-clone-api.git)       | (Amazon Clone ready-to-go back-end using Express)                 |
+| Angular Amazon Clone Lite    | [repository](https://github.com/Pethum-Jeewantha/angular-amazon-clone-lite.git)      | (Amazon Clone ready-to-go front-end using Angular)                |
 
 ## SKILLS & TOOLS
 <p>
@@ -48,6 +49,8 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 <code><img width="4%" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png"></code>
 &nbsp;
 <code><img width="4%" src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"></code>
 &nbsp;
