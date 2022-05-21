@@ -9,8 +9,6 @@
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="float: right">
-
 ## 👦 ABOUT ME
 
 I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
