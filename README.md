@@ -112,4 +112,4 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 &nbsp;
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
