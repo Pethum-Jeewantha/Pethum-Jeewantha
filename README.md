@@ -103,6 +103,7 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 
 ## CERTIFICATIONS
 ![](./image/aws-certified-solutions-architect-associate.png)
+![](./image/OCAJSE8.png)
 
 ## MY GITHUB STATS
 
