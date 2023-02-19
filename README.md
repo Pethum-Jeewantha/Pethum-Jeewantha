@@ -25,18 +25,18 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 
 ## 🧑‍💻 MY WORKS
 
-| Topic                        | Repository                                                                           | Description                                                       |
-|------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| ProEdit (Simple Text Editor) | [repository](https://github.com/Pethum-Jeewantha/Text-Editor.git)                    | (Desktop Application)                                             |
-| Google Clone                 | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)  | https://pethum-jeewantha.github.io/vanilla-html-css-google-clone  |
-| Twitter Clone UI             | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git) | https://pethum-jeewantha.github.io/vanilla-html-css-twitter-clone |
-| POS System UI                | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)            | https://pethum-jeewantha.github.io/html-css-pos-system            |
-| Simple Intro                 | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                   | https://pethum-jeewantha.github.io/simple-intro                   |
-| Personal Website             | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)               | https://pethumjeewantha.com                                       |
-| Simple ORM Framework         | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)           | (Java Framework)                                                  |
-| Spring Boot POS API          | [repository](https://github.com/Pethum-Jeewantha/spring-boot-pos-api.git)            | (POS ready-to-go back-end using Spring Boot)                      |
-| Express Amazon Clone API     | [repository](https://github.com/Pethum-Jeewantha/express-amazon-clone-api.git)       | (Amazon Clone ready-to-go back-end using Express)                 |
-| Angular Amazon Clone Lite    | [repository](https://github.com/Pethum-Jeewantha/angular-amazon-clone-lite.git)      | (Amazon Clone ready-to-go front-end using Angular)                |
+| Topic                        | Repository                                                                           | Description                                                |
+|------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------|
+| ProEdit (Simple Text Editor) | [repository](https://github.com/Pethum-Jeewantha/Text-Editor.git)                    | (Desktop Application)                                      |
+| Google Clone                 | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-google-clone.git)  | https://pethumjeewantha.com/vanilla-html-css-google-clone  |
+| Twitter Clone UI             | [repository](https://github.com/Pethum-Jeewantha/vanilla-html-css-twitter-clone.git) | https://pethumjeewantha.com/vanilla-html-css-twitter-clone |
+| POS System UI                | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)            | https://pethumjeewantha.com/html-css-pos-system            |
+| Simple Intro                 | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                   | https://pethumjeewantha.com/simple-intro                   |
+| Personal Website             | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)               | https://pethumjeewantha.com                                |
+| Simple ORM Framework         | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)           | (Java Framework)                                           |
+| Spring Boot POS API          | [repository](https://github.com/Pethum-Jeewantha/spring-boot-pos-api.git)            | (POS ready-to-go back-end using Spring Boot)               |
+| Express Amazon Clone API     | [repository](https://github.com/Pethum-Jeewantha/express-amazon-clone-api.git)       | (Amazon Clone ready-to-go back-end using Express)          |
+| Angular Amazon Clone Lite    | [repository](https://github.com/Pethum-Jeewantha/angular-amazon-clone-lite.git)      | (Amazon Clone ready-to-go front-end using Angular)         |
 
 ## SKILLS & TOOLS
 <p>
