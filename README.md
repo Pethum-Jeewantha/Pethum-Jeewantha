@@ -21,7 +21,7 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JeewanthaPethum)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-pethumjeewantha4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pethumjeewantha4@gmail.com)](mailto:pethumjeewantha4@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-me@pethumjeewantha.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pethumjeewantha4@gmail.com)](mailto:pethumjeewantha4@gmail.com)
 
 ## 🧑‍💻 MY WORKS
 
