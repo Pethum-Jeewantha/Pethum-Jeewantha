@@ -3,9 +3,9 @@
 
 ## I'm a Learner and Developer!
 
-- 🌱 I’m currently learning Go, Terraform.
+- 🌱 I’m currently learning project management related stuffs.
 - 💬 Ask me about anything related to Application Development
-- 🥅 2022 Goals: Complete Professional Certifications
+- 🥅 2023 Goals: Complete Professional Certifications
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
@@ -33,13 +33,16 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 | POS System UI                | [repository](https://github.com/Pethum-Jeewantha/html-css-pos-system.git)            | https://pethumjeewantha.com/html-css-pos-system            |
 | Simple Intro                 | [repository](https://github.com/Pethum-Jeewantha/simple-intro.git)                   | https://pethumjeewantha.com/simple-intro                   |
 | Personal Website             | [repository](https://github.com/Pethum-Jeewantha/personal-website.git)               | https://pethumjeewantha.com                                |
-| Simple ORM Framework         | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)           | (Java Framework)                                           |
+| Simple ORM Framework         | [repository](https://github.com/Pethum-Jeewantha/simple-orm-framework.git)           | (Java Framework)
+| AI Slackbot                  | [repository](https://github.com/Pethum-Jeewantha/ai-slackbot.git)                    | (AI powered Slack chatbot)                                           |
 | Spring Boot POS API          | [repository](https://github.com/Pethum-Jeewantha/spring-boot-pos-api.git)            | (POS ready-to-go back-end using Spring Boot)               |
 | Express Amazon Clone API     | [repository](https://github.com/Pethum-Jeewantha/express-amazon-clone-api.git)       | (Amazon Clone ready-to-go back-end using Express)          |
 | Angular Amazon Clone Lite    | [repository](https://github.com/Pethum-Jeewantha/angular-amazon-clone-lite.git)      | (Amazon Clone ready-to-go front-end using Angular)         |
 
 ## SKILLS & TOOLS
 <p>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
@@ -76,10 +79,6 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
-&nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
@@ -97,8 +96,6 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-&nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
 
 ## CERTIFICATIONS
