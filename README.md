@@ -102,6 +102,7 @@ I'm **Pethum Jeewantha**. I'm a **Full Stack Developer** in Sri Lanka. I always 
 ![](./image/aws-certified-solutions-architect-associate.png)
 ![](./image/cka-certified-kubernetes-administrator.png)
 ![](./image/OCAJSE8.png)
+![](./image/hashicorp-certified-terraform-associate-004.png)
 
 ## MY GITHUB STATS
 
